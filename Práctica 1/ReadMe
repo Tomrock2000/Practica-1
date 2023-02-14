@@ -1,0 +1,7 @@
+En PuntoFin se encuentra la primera actividad; los 2 metodos set para el punto fin
+
+ClasePunto es la definición de la clase Punto
+
+Vectorclase es la definición de la clase Vector y también se encuentran las sobrecargas de los operadores
+
+MainVector es el main
